@@ -1,0 +1,16 @@
+{
+  "name": "xin/tatschema",
+  "description": "TAT Framework",
+  "type": "framework",
+  "keywords": [
+    "PHP",
+    "PHP Framework"
+  ],
+  "require": {
+    "php": ">=7.2.0",
+    "filp/whoops": "*",
+    "symfony/var-dumper": "^5.4",
+    "catfan/medoo": "*",
+    "twig/twig": "*"
+  }
+}
